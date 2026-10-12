@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.vscode/
+.ipynb_checkpoints/
+
+# Local reports or generated figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
